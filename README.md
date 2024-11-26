@@ -5,3 +5,6 @@ This is a segmentation with registration base code for medialab.
 
 # 相关论文资料
 链接 [这是链接](https://1drv.ms/f/s!AkjwY4uNyg07gcMqBjkThlGshwpHJQ?e=kSj1KW)
+
+# nii数据可视化软件：ITK-SNAP
+
