@@ -17,4 +17,4 @@ This is a segmentation with registration base code for medialab.
 # 代码相关
 运行代码平台：VScode（统一）
 
-平时可以在 vscode 中创建 ** **.ipynb文件进行简单的测试代码，这样有助于理解代码 **
+平时可以在 vscode 中创建 ****.ipynb文件进行简单的测试代码，这样有助于理解代码**
