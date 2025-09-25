@@ -289,7 +289,7 @@ def main():
             f_test = open(result_dir + '/result.txt', 'a')
 
             print('Epoch', epoch)
-            f_test.write('Epoch '+str(epoch)+'\n')
+            f_test.write('\n'+'Epoch '+str(epoch)+'\n')
 
             print('------------------------Dice------------------------')
             print(' initial :', np.mean(dice_list0), np.std(dice_list0))
